@@ -6,7 +6,7 @@
 /*   By: vafleith <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/10 19:16:24 by vafleith          #+#    #+#             */
-/*   Updated: 2023/08/13 13:33:26 by vafleith         ###   ########.fr       */
+/*   Updated: 2023/08/25 19:14:19 by val              ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -62,7 +62,7 @@ bool	base_is_valid(char *base)
 	return (true);
 }
 
-int	ft_unsigned_atoi_base(char *str, char *base)
+unsigned int	ft_unsigned_atoi_base(char *str, char *base)
 {
 	unsigned int	output;
 	int				len_base;
