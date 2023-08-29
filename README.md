@@ -19,6 +19,7 @@ Introduction to C programming language : rewriting functions from the standard C
 | ex03  | [`ft_print_numbers.c`](/C00/ex03/ft_print_numbers.c) | |
 | ex04  | [`ft_is_negative.c`](/C00/ex04/ft_is_negative.c)  |  |
 | ex05 | [`ft_print_comb.c`](/C00/ex05/ft_print_comb.c) | |
+| ex06 | `ft_print_comb2.c` | *NR*
 | | | |
 | __[C01](/C01) : Pointers__ |           |   __100%__    |
 | ex00  |  [`ft_ft.c`](/C01/ex00/ft_ft.c)  |  |
@@ -72,26 +73,26 @@ Introduction to C programming language : rewriting functions from the standard C
 | ex07 | [`ft_find_next_prime.c`](/C05/ex07/ft_find_next_prime.c) |  |
 | | | |
 | __[C06](/C06) : Command-line arguments__ |           |   __100%__    |
-| ex00  |   `ft_print_program_name.c`  |   |
-| ex01  | `ft_print_params.c` |  |
-| ex02  | `ft_rev_params.c` | |
-| ex03  | `ft_sort_params.c` |  |
+| ex00  |   [`ft_print_program_name.c`](/C06/ex00/ft_print_program_name.c)  |   |
+| ex01  | [`ft_print_params.c`](/C06/ex01/ft_print_params.c) |  |
+| ex02  | [`ft_rev_params.c`](/C06/ex02/ft_rev_params.c) | |
+| ex03  | [`ft_sort_params.c`](/C06/ex03/ft_sort_params.c) |  |
 | | | |
 | __[C07](/C07) : Dynamic memory allocation__ |           |   __100%__    |
-| ex00  |   `ft_strdup.c`  |   |
-| ex01  | `ft_range.c` |  |
-| ex02  | `ft_ultimate_range.c` | |
-| ex03  | `ft_strjoin.c` |  |
-| ex04  | `ft_convert_base.c`  |  |
-| ex05 | `ft_split.c` |  |
+| ex00  |  [`ft_strdup.c`](/C07/ex00/ft_strdup.c)  |   |
+| ex01  | [`ft_range.c`](/C07/ex01/ft_range.c) |  |
+| ex02  | [`ft_ultimate_range.c`](/C07/ex02/ft_ultimate_range.c) | |
+| ex03  | [`ft_strjoin.c`](/C07/ex03/ft_strjoin.c) |  |
+| ex04  | [`ft_convert_base.c`](/C07/ex04)  |  |
+| ex05 | [`ft_split.c`](/C07/ex05/ft_split.c) |  |
 | | | |
 | __[C08](/C08) : Header files and data structures__ |           |   __100%__    |
-| ex00  |   `ft.h`  |   |
-| ex01  | `ft_boolean.h` |  |
-| ex02  | `ft_abs.h` | |
-| ex03  | `ft_point.h` |  |
-| ex04  | `ft_strs_to_tab.c`  |  |
-| ex05 | `ft_show_tab.c` |  |
+| ex00  | [`ft.h`](/C08/ex00/ft.h)  |   |
+| ex01  | [`ft_boolean.h`](C08/ex01/ft_boolean.h) |  |
+| ex02  | [`ft_abs.h`](C08/ex02/ft_abs.h) | |
+| ex03  | [`ft_point.h`](C08/ex03/ft_point.h) |  |
+| ex04  | [`ft_strs_to_tab.c`](C08/ex04/ft_strs_to_tab.c)  |  |
+| ex05 | [`ft_show_tab.c`](C08/ex05/ft_show_tab.c) |  |
 | | | |
 
  ### Group projects ###
