@@ -103,7 +103,7 @@ Introduction to C programming language : rewriting functions from the standard C
  
   - [Rush00](/Rush00) (2 days / team of 3 people) :
 
-   Display a square on standard output with specific characters.
+   Display a square formed by specific characters on standard output.
 
 ![image](https://github.com/valentinefleith/42_piscine/assets/125041345/930bf0f6-ea0e-4dc3-952f-42b870c2c476)
     
