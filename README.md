@@ -19,7 +19,9 @@ Introduction to C programming language : rewriting functions from the standard C
 | ex03  | [`ft_print_numbers.c`](/C00/ex03/ft_print_numbers.c) | |
 | ex04  | [`ft_is_negative.c`](/C00/ex04/ft_is_negative.c)  |  |
 | ex05 | [`ft_print_comb.c`](/C00/ex05/ft_print_comb.c) | |
-| ex06 | `ft_print_comb2.c` | *NR*
+| ex06 | `ft_print_comb2.c` | *NR* |
+| ex07 | `ft_putnbr.c` | *NR* |
+| ex08 | `ft_print_combn` | *NR* |
 | | | |
 | __[C01](/C01) : Pointers__ |           |   __100%__    |
 | ex00  |  [`ft_ft.c`](/C01/ex00/ft_ft.c)  |  |
@@ -45,6 +47,7 @@ Introduction to C programming language : rewriting functions from the standard C
 | ex09 | [`ft_strcapitalize.c`](/C02/ex09/ft_strcapitalize.c) |  |
 | ex10 | [`ft_strlcpy.c`](/C02/ex10/ft_strlcpy.c) | | 
 | ex11 | [`ft_putstr_non_printable.c`](/C02/ex11/ft_putstr_non_printable.c) |  |
+| ex12 | `ft_print_memory.c` | *NR* |
 | | | |
 | __[C03](/C03) : Functions from string.h__ |           |   __75%__    |
 | ex00  | [`ft_strcmp.c`](/C03/ex00/ft_strcmp.c)  |   |
@@ -71,6 +74,7 @@ Introduction to C programming language : rewriting functions from the standard C
 | ex05 | [`ft_sqrt.c`](/C05/ex05/ft_sqrt.c) |  |
 | ex06 | [`ft_is_prime.c`](/C05/ex06/ft_is_prime.c) |  |
 | ex07 | [`ft_find_next_prime.c`](/C05/ex07/ft_find_next_prime.c) |  |
+| ex08 | `ft_ten_queens_puzzle.c` | *NR* |
 | | | |
 | __[C06](/C06) : Command-line arguments__ |           |   __100%__    |
 | ex00  |   [`ft_print_program_name.c`](/C06/ex00/ft_print_program_name.c)  |   |
@@ -96,13 +100,30 @@ Introduction to C programming language : rewriting functions from the standard C
 | | | |
 
  ### Group projects ###
- __Rushes__ : teams of 3, 2 days per project.
-  
- __BSQ__ : team of 2, 3 days.
-  - [Rush00](/Rush00) : display a square on standard output with specific characters.
+ 
+  - [Rush00](/Rush00) (2 days / team of 3 people) :
+
+   Display a square on standard output with specific characters.
+
+![image](https://github.com/valentinefleith/42_piscine/assets/125041345/930bf0f6-ea0e-4dc3-952f-42b870c2c476)
+    
+
+__*Result : 116%*__
 
     
-  - [Rush01](/Rush01) : resolve a skyscraper puzzle and print the solution if it exists.
+  - [Rush01](/Rush01) (2 days / team of 3 people) :
 
+Resolve a skyscraper puzzle and print the solution if it exists.
+
+![image](https://github.com/valentinefleith/42_piscine/assets/125041345/7b9d7dd7-baf7-4ff6-ba81-de01f4b91d06)
+![image](https://github.com/valentinefleith/42_piscine/assets/125041345/e4c2b2c9-bf85-4106-8eba-c309d4e6468d)
+
+__*Result : 100%*__
     
-  - [BSQ](/BSQ) : giving a map with obstacles, find and print the biggest square which avoids the obstacles.
+  - [BSQ](/BSQ) (3 days / team of 2 poeple) :
+
+Find the biggest square on a map, avoiding obstacles. A file containing the map have to be passed as an argument. The map is made up of "empty" characters, lines, and "obstacles" characters. If more than one solution exists, the square that's closest to the top of the map, then the one that's most to the left, must be represented.
+
+![image](https://github.com/valentinefleith/42_piscine/assets/125041345/141eb4ea-0b3f-4cdd-9463-40f21f81c2d5)
+
+__*Result : 50%*__
