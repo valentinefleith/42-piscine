@@ -32,44 +32,44 @@ Introduction to C programming language : rewriting functions from the standard C
 | ex08 | [`ft_sort_int_tab.c`](/C01/ex08/ft_sort_int_tab.c) | |
 | | | |
 | __[C02](/C02) : String manipulation__ |           |   __85%__    |
-| ex00  |  [`ft_strcpy.c`  |   |
-| ex01  | [`ft_strncpy.c` |  |
-| ex02  | [`ft_str_is_alpha.c` | |
-| ex03  | [`ft_str_is_numeric.c` |  |
-| ex04  | [`ft_str_is_lowercase.c`  | |
-| ex05 | [`ft_str_is_uppercase.c` |  |
-| ex06 | [`ft_str_is_printable.c` |  |
-| ex07 | [`ft_strupcase.c` |  |
-| ex08 | [`ft_strlowcase.c` |  |
-| ex09 | [`ft_strcapitalize.c` |  |
+| ex00  |  [`ft_strcpy.c`](/C02/ex00/ft_strcpy.c)  |   |
+| ex01  | [`ft_strncpy.c`](/C02/ex01/ft_strncpy.c) |  |
+| ex02  | [`ft_str_is_alpha.c`](/C02/ex02/ft_str_is_alpha.c) | |
+| ex03  | [`ft_str_is_numeric.c`](/C02/ex03/ft_str_is_numeric.c) |  |
+| ex04  | [`ft_str_is_lowercase.c`](/C02/ex04/ft_str_is_lowercase.c)  | |
+| ex05 | [`ft_str_is_uppercase.c`](/C02/ex05/ft_str_is_uppercase.c) |  |
+| ex06 | [`ft_str_is_printable.c`](/C02/ex06/ft_str_is_printable.c) |  |
+| ex07 | [`ft_strupcase.c`](/C02/ex07/ft_strupcase.c) |  |
+| ex08 | [`ft_strlowcase.c`](/C02/ex08/strlowcase.c) |  |
+| ex09 | [`ft_strcapitalize.c`](/C02/ex09/ft_strcapitalize.c) |  |
 | ex10 | [`ft_strlcpy.c`](/C02/ex10/ft_strlcpy.c) | | 
 | ex11 | [`ft_putstr_non_printable.c`](/C02/ex11/ft_putstr_non_printable.c) |  |
 | | | |
 | __[C03](/C03) : Functions from string.h__ |           |   __75%__    |
-| ex00  |   `ft_strcmp.c`  |   |
-| ex01  | `ft_strncmp.c` |  |
-| ex02  | `ft_strcat.c` | |
-| ex03  | `ft_strncat.c` |  |
-| ex04  | `ft_strstr.c`  |  |
-| ex05 | `ft_strlcat.c` | *KO*|
+| ex00  | [`ft_strcmp.c`](/C03/ex00/ft_strcmp.c)  |   |
+| ex01  | [`ft_strncmp.c`](/C03/ex01/ft_strncmp.c) |  |
+| ex02  | [`ft_strcat.c`](/C03/ex02/ft_strcat.c) | |
+| ex03  | [`ft_strncat.c`](/C03/ex03/ft_strncat.c) |  |
+| ex04  | [`ft_strstr.c`](/C03/ex04/ft_strstr.c)  |  |
+| ex05 | [`ft_strlcat.c`](/C03/ex05/ft_strlcat.c) | *KO*|
 | | | |
-| __[C04](/C04) : Type manipulation__ |           |   __100%__    |
-| ex00  |   `ft_strlen.c`  |   |
-| ex01  | `ft_putstr.c` |  |
-| ex02  | `ft_putnbr.c` | |
-| ex03  | `ft_atoi.c` |  |
-| ex04  | `ft_putnbr_base.c`  |  |
-| ex05 | `ft_atoi_base.c` |  |
+| __[C04](/C04) : Type and base manipulation__ |           |   __100%__    |
+| ex00  | [`ft_strlen.c`](/C04/ex00/ft_strlen.c) |   |
+| ex01  | [`ft_putstr.c`](/C04/ex01/ft_putstr.c) |  |
+| ex02  | [`ft_putnbr.c`](/C04/ex02/ft_putnbr.c) | |
+| ex03  | [`ft_atoi.c`](/C04/ex03/ft_atoi.c) |  |
+| ex04  | [`ft_putnbr_base.c`](/C04/ex04/ft_putnbr_base.c)  |  |
+| ex05 | [`ft_atoi_base.c`](/C04/ex05/ft_atoi_base.c) |  |
 | | | |
 | __[C05](/C05) : Recursion & optimization__ |           |   __80%__    |
-| ex00  |   `ft_iterative_factorial.c`  |   |
-| ex01  | `ft_recursive_factorial.c` |  |
-| ex02  | `ft_iterative_power.c` | |
-| ex03  | `ft_recursive_power.c` |  |
-| ex04  | `ft_fibonacci.c`  |  |
-| ex05 | `ft_sqrt.c` |  |
-| ex06 | `ft_is_prime.c` |  |
-| ex07 | `ft_find_next_prime.c` |  |
+| ex00  |  [`ft_iterative_factorial.c`](/C05/ex00/ft_iterative_factorial.c)  |   |
+| ex01  | [`ft_recursive_factorial.c`](/C05/ex01/ft_recursive_factorial.c) |  |
+| ex02  | [`ft_iterative_power.c`](/C05/ex02/ft_itertative_power.c) | |
+| ex03  | [`ft_recursive_power.c`](/C05/ex03/ft_recursive_power.c) |  |
+| ex04  | [`ft_fibonacci.c`](/C05/ex04/ft_fibonacci.c)  |  |
+| ex05 | [`ft_sqrt.c`](/C05/ex05/ft_sqrt.c) |  |
+| ex06 | [`ft_is_prime.c`](/C05/ex06/ft_is_prime.c) |  |
+| ex07 | [`ft_find_next_prime.c`](/C05/ex07/ft_find_next_prime.c) |  |
 | | | |
 | __[C06](/C06) : Command-line arguments__ |           |   __100%__    |
 | ex00  |   `ft_print_program_name.c`  |   |
