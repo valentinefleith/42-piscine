@@ -130,4 +130,4 @@ Find the biggest square on a map, avoiding obstacles. A file containing the map 
 
 ![image](https://github.com/valentinefleith/42_piscine/assets/125041345/141eb4ea-0b3f-4cdd-9463-40f21f81c2d5)
 
-__*Result : 50%*__
+__*Result : 50% (norm error in Makefile)*__
