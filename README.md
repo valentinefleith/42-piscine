@@ -1,8 +1,12 @@
-# 42 - August 2023 Piscine
+# 42 Paris - August 2023 Piscine
 
-This repository contains exercices realized at 42 school during summer piscine 2023.
+## Results
 
-Don't copy, learn.
+ | Final ranking | Final level|
+ | --- | ----|
+ | 16/420 | 9.95% |
+ 
+### ⚠️ Disclaimer : Don't copy, learn. ⚠️
 
 ## Shell 
 [Shell00](/Shell00) & [Shell01](/Shell01) : Quick introduction to shell scripting, permissions handling, bash basic commands (grep, find, sed, awk), regular expressions.
