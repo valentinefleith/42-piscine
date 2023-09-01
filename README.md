@@ -21,7 +21,7 @@ Introduction to C programming language : rewriting functions from the standard C
 | ex05 | [`ft_print_comb.c`](/C00/ex05/ft_print_comb.c) | |
 | ex06 | `ft_print_comb2.c` | *NR* |
 | ex07 | `ft_putnbr.c` | *NR* |
-| ex08 | `ft_print_combn` | *NR* |
+| ex08 | `ft_print_combn.c` | *NR* |
 | | | |
 | __[C01](/C01) : Pointers__ |           |   __100%__    |
 | ex00  |  [`ft_ft.c`](/C01/ex00/ft_ft.c)  |  |
