@@ -109,7 +109,8 @@ Introduction to C programming language : rewriting functions from the standard C
 
    Display a square formed by specific characters on standard output.
 
-![image](https://github.com/valentinefleith/42_piscine/assets/125041345/930bf0f6-ea0e-4dc3-952f-42b870c2c476)
+![image](https://github.com/valentinefleith/42_piscine/assets/125041345/6fe69e1b-116f-4f8a-af7e-1af789e29038)
+
     
 
 __*Result : 116%*__
@@ -119,8 +120,10 @@ __*Result : 116%*__
 
 Resolve a skyscraper puzzle and print the solution if it exists.
 
-![image](https://github.com/valentinefleith/42_piscine/assets/125041345/7b9d7dd7-baf7-4ff6-ba81-de01f4b91d06)
-![image](https://github.com/valentinefleith/42_piscine/assets/125041345/e4c2b2c9-bf85-4106-8eba-c309d4e6468d)
+![image](https://github.com/valentinefleith/42_piscine/assets/125041345/c6021d31-efdb-45cc-9110-3382b8571754)
+
+![image](https://github.com/valentinefleith/42_piscine/assets/125041345/542e9c60-344a-47db-9f71-2705c5093161)
+
 
 __*Result : 100%*__
     
@@ -128,6 +131,7 @@ __*Result : 100%*__
 
 Find the biggest square on a map, avoiding obstacles. A file containing the map have to be passed as an argument. The map is made up of "empty" characters, lines, and "obstacles" characters. If more than one solution exists, the square that's closest to the top of the map, then the one that's most to the left, must be represented.
 
-![image](https://github.com/valentinefleith/42_piscine/assets/125041345/141eb4ea-0b3f-4cdd-9463-40f21f81c2d5)
+![image](https://github.com/valentinefleith/42_piscine/assets/125041345/9b123867-59a6-4d76-8596-0ab64ccf3b98)
+
 
 __*Result : 50% (norm error in Makefile)*__
