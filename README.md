@@ -102,6 +102,9 @@ Introduction to C programming language : rewriting functions from the standard C
 | ex04  | [`ft_strs_to_tab.c`](C08/ex04/ft_strs_to_tab.c)  |  |
 | ex05 | [`ft_show_tab.c`](C08/ex05/ft_show_tab.c) |  |
 | | | |
+| __[C011](/C11) : Function pointers__ |           |   _NR_    |
+| ex00  | [`ft.foreach.c`](/C11/ex00/ft_foreach.c)  |  *NR* |
+| ex01  | [`ft_map.c`](C11/ex01/ft_map.c) | *NR* |
 
  ### Group projects ###
  
